@@ -264,4 +264,4 @@ If the QR code has expired, you can use the "More Plugins" page below to contact
 
 Youchao Digital Intelligence continues to build enterprise-grade NocoBase plugins and extension capabilities. For more plugins, please see:
 
-[More NocoBase Plugin Extensions](https://docs.youchaoyun.com/cn/infrastructure/nocobase_plugin_extension/)
+[More NocoBase Plugin Extensions](https://docs.youchaoyun.com/cn/infrastructure/plugin_extension/)
